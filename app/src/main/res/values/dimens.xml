@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_width">130dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="text_end">30sp</dimen>
+    <dimen name="text_end_margin">30dp</dimen>
+    <dimen name="imgHolesHeight">400dp</dimen>
+    <dimen name="hole_width">120dp</dimen>
+    <dimen name="hole_height">60dp</dimen>
+    <dimen name="hole_mar_hor">40dp</dimen>
+    <dimen name="hole_mar_top">40dp</dimen>
+    <dimen name="frag_width">330dp</dimen>
+    <dimen name="frag_height">320dp</dimen>
+    <dimen name="txt_game_data_mar_top">10dp</dimen>
+    <dimen name="txt_game_data_mar_hor">15dp</dimen>
+</resources>

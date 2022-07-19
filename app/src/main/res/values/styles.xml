@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button">
+        <item name="android:layout_width">@dimen/btn_width</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textSize">@dimen/btn_text_size</item>
+    </style>
+
+    <style name="text_end">
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textSize">@dimen/text_end</item>
+        <item name="android:layout_margin">@dimen/text_end_margin</item>
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="img_hole">
+        <item name="android:layout_width">@dimen/hole_width</item>
+        <item name="android:layout_height">@dimen/hole_height</item>
+        <item name="android:layout_marginHorizontal">@dimen/hole_mar_hor</item>
+        <item name="android:layout_marginTop">@dimen/hole_mar_top</item>
+    </style>
+
+    <style name="fragment">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">380dp</item>
+    </style>
+
+    <style name="txt_game_data">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/txt_game_data_mar_top</item>
+        <item name="android:layout_marginHorizontal">@dimen/txt_game_data_mar_hor</item>
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>
